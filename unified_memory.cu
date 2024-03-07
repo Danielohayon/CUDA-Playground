@@ -1,3 +1,5 @@
+#include <iostream>
+
 __global__ void kernel(int* data) {
     int tid = blockIdx.x * blockDim.x + threadIdx.x;
     data[tid] *= 2;
