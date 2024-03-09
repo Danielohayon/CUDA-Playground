@@ -8,6 +8,7 @@ __global__ void add_vectors(int* A, int* B, int* C, int size) {
     }
 }
 
+
 int main() {
     int size = 1024;  
     int* A, * B, * C;

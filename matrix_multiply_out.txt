@@ -1,0 +1,98 @@
+Block  x:0,y:1 Thread x:0,y:0 => Adding A[8] + B[0] to sum
+Block  x:0,y:1 Thread x:1,y:0 => Adding A[8] + B[1] to sum
+Block  x:0,y:1 Thread x:0,y:1 => Adding A[12] + B[0] to sum
+Block  x:0,y:1 Thread x:1,y:1 => Adding A[12] + B[1] to sum
+Block  x:1,y:1 Thread x:0,y:0 => Adding A[8] + B[2] to sum
+Block  x:1,y:1 Thread x:1,y:0 => Adding A[8] + B[3] to sum
+Block  x:1,y:1 Thread x:0,y:1 => Adding A[12] + B[2] to sum
+Block  x:1,y:1 Thread x:1,y:1 => Adding A[12] + B[3] to sum
+Block  x:1,y:0 Thread x:0,y:0 => Adding A[0] + B[2] to sum
+Block  x:1,y:0 Thread x:1,y:0 => Adding A[0] + B[3] to sum
+Block  x:1,y:0 Thread x:0,y:1 => Adding A[4] + B[2] to sum
+Block  x:1,y:0 Thread x:1,y:1 => Adding A[4] + B[3] to sum
+Block  x:0,y:0 Thread x:0,y:0 => Adding A[0] + B[0] to sum
+Block  x:0,y:0 Thread x:1,y:0 => Adding A[0] + B[1] to sum
+Block  x:0,y:0 Thread x:0,y:1 => Adding A[4] + B[0] to sum
+Block  x:0,y:0 Thread x:1,y:1 => Adding A[4] + B[1] to sum
+Block  x:0,y:1 Thread x:0,y:0 => Adding A[9] + B[4] to sum
+Block  x:0,y:1 Thread x:1,y:0 => Adding A[9] + B[5] to sum
+Block  x:0,y:1 Thread x:0,y:1 => Adding A[13] + B[4] to sum
+Block  x:0,y:1 Thread x:1,y:1 => Adding A[13] + B[5] to sum
+Block  x:1,y:1 Thread x:0,y:0 => Adding A[9] + B[6] to sum
+Block  x:1,y:1 Thread x:1,y:0 => Adding A[9] + B[7] to sum
+Block  x:1,y:1 Thread x:0,y:1 => Adding A[13] + B[6] to sum
+Block  x:1,y:1 Thread x:1,y:1 => Adding A[13] + B[7] to sum
+Block  x:1,y:0 Thread x:0,y:0 => Adding A[1] + B[6] to sum
+Block  x:1,y:0 Thread x:1,y:0 => Adding A[1] + B[7] to sum
+Block  x:1,y:0 Thread x:0,y:1 => Adding A[5] + B[6] to sum
+Block  x:1,y:0 Thread x:1,y:1 => Adding A[5] + B[7] to sum
+Block  x:0,y:0 Thread x:0,y:0 => Adding A[1] + B[4] to sum
+Block  x:0,y:0 Thread x:1,y:0 => Adding A[1] + B[5] to sum
+Block  x:0,y:0 Thread x:0,y:1 => Adding A[5] + B[4] to sum
+Block  x:0,y:0 Thread x:1,y:1 => Adding A[5] + B[5] to sum
+Block  x:0,y:1 Thread x:0,y:0 => Adding A[10] + B[8] to sum
+Block  x:0,y:1 Thread x:1,y:0 => Adding A[10] + B[9] to sum
+Block  x:0,y:1 Thread x:0,y:1 => Adding A[14] + B[8] to sum
+Block  x:0,y:1 Thread x:1,y:1 => Adding A[14] + B[9] to sum
+Block  x:1,y:1 Thread x:0,y:0 => Adding A[10] + B[10] to sum
+Block  x:1,y:1 Thread x:1,y:0 => Adding A[10] + B[11] to sum
+Block  x:1,y:1 Thread x:0,y:1 => Adding A[14] + B[10] to sum
+Block  x:1,y:1 Thread x:1,y:1 => Adding A[14] + B[11] to sum
+Block  x:1,y:0 Thread x:0,y:0 => Adding A[2] + B[10] to sum
+Block  x:1,y:0 Thread x:1,y:0 => Adding A[2] + B[11] to sum
+Block  x:1,y:0 Thread x:0,y:1 => Adding A[6] + B[10] to sum
+Block  x:1,y:0 Thread x:1,y:1 => Adding A[6] + B[11] to sum
+Block  x:0,y:0 Thread x:0,y:0 => Adding A[2] + B[8] to sum
+Block  x:0,y:0 Thread x:1,y:0 => Adding A[2] + B[9] to sum
+Block  x:0,y:0 Thread x:0,y:1 => Adding A[6] + B[8] to sum
+Block  x:0,y:0 Thread x:1,y:1 => Adding A[6] + B[9] to sum
+Block  x:0,y:1 Thread x:0,y:0 => Adding A[11] + B[12] to sum
+Block  x:0,y:1 Thread x:1,y:0 => Adding A[11] + B[13] to sum
+Block  x:0,y:1 Thread x:0,y:1 => Adding A[15] + B[12] to sum
+Block  x:0,y:1 Thread x:1,y:1 => Adding A[15] + B[13] to sum
+Block  x:1,y:1 Thread x:0,y:0 => Adding A[11] + B[14] to sum
+Block  x:1,y:1 Thread x:1,y:0 => Adding A[11] + B[15] to sum
+Block  x:1,y:1 Thread x:0,y:1 => Adding A[15] + B[14] to sum
+Block  x:1,y:1 Thread x:1,y:1 => Adding A[15] + B[15] to sum
+Block  x:1,y:0 Thread x:0,y:0 => Adding A[3] + B[14] to sum
+Block  x:1,y:0 Thread x:1,y:0 => Adding A[3] + B[15] to sum
+Block  x:1,y:0 Thread x:0,y:1 => Adding A[7] + B[14] to sum
+Block  x:1,y:0 Thread x:1,y:1 => Adding A[7] + B[15] to sum
+Block  x:0,y:0 Thread x:0,y:0 => Adding A[3] + B[12] to sum
+Block  x:0,y:0 Thread x:1,y:0 => Adding A[3] + B[13] to sum
+Block  x:0,y:0 Thread x:0,y:1 => Adding A[7] + B[12] to sum
+Block  x:0,y:0 Thread x:1,y:1 => Adding A[7] + B[13] to sum
+Block  x:0,y:1 Thread x:0,y:0 => Saving sum to C[8]
+Block  x:0,y:1 Thread x:1,y:0 => Saving sum to C[9]
+Block  x:0,y:1 Thread x:0,y:1 => Saving sum to C[12]
+Block  x:0,y:1 Thread x:1,y:1 => Saving sum to C[13]
+Block  x:1,y:1 Thread x:0,y:0 => Saving sum to C[10]
+Block  x:1,y:1 Thread x:1,y:0 => Saving sum to C[11]
+Block  x:1,y:1 Thread x:0,y:1 => Saving sum to C[14]
+Block  x:1,y:1 Thread x:1,y:1 => Saving sum to C[15]
+Block  x:1,y:0 Thread x:0,y:0 => Saving sum to C[2]
+Block  x:1,y:0 Thread x:1,y:0 => Saving sum to C[3]
+Block  x:1,y:0 Thread x:0,y:1 => Saving sum to C[6]
+Block  x:1,y:0 Thread x:1,y:1 => Saving sum to C[7]
+Block  x:0,y:0 Thread x:0,y:0 => Saving sum to C[0]
+Block  x:0,y:0 Thread x:1,y:0 => Saving sum to C[1]
+Block  x:0,y:0 Thread x:0,y:1 => Saving sum to C[4]
+Block  x:0,y:0 Thread x:1,y:1 => Saving sum to C[5]
+
+A
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+
+B
+0 1 2 3 
+4 5 6 7 
+8 9 10 11 
+12 13 14 15 
+
+C
+56 62 68 74 
+152 174 196 218 
+248 286 324 362 
+344 398 452 506 
